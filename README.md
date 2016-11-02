@@ -6,10 +6,10 @@
 #### 遊戲畫面:
 
   
-![GITHUB](https://github.com/ez32451/Android_Game_GOpher/blob/master/screen/Screenshot_2016-11-02-12-57-32.jpg)1.
+![GITHUB](https://github.com/ez32451/Android_Game_GOpher/blob/master/screen/Screenshot_2016-11-02-12-57-32.jpg)
 
 
-![GITHUB](https://github.com/ez32451/Android_Game_GOpher/blob/master/screen/Screenshot_2016-11-02-12-57-43.jpg)2.
+![GITHUB](https://github.com/ez32451/Android_Game_GOpher/blob/master/screen/Screenshot_2016-11-02-12-57-43.jpg)
 
 
-![GITHUB](https://github.com/ez32451/Android_Game_GOpher/blob/master/screen/Screenshot_2016-11-02-12-57-54.jpg)3.
+![GITHUB](https://github.com/ez32451/Android_Game_GOpher/blob/master/screen/Screenshot_2016-11-02-12-57-54.jpg)
